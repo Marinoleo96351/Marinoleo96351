@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marinoleo96351
-- 👀 I’m Full Stack Developer
-- 📖 studying TypeScript
+- 👀 For now I'm in front-end but I aim to become full-stack
+- 📖 studying web development
 - 📫 How to reach me:
     -https://www.linkedin.com/in/leonardomarinoss/
     -https://www.instagram.com/leo_marino__/
@@ -68,17 +68,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
