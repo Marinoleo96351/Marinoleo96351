@@ -165,15 +165,13 @@
 
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marinoleo96351&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marinoleo96351&theme=dracula"/>
 </p>
-
-
 
 
 
