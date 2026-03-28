@@ -164,9 +164,14 @@
 ### 📊 Estatísticas
 
 
-  [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marinoleo96351&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=chartreuse-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=chartreuse-dark)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marinoleo96351&theme=tokyonight"/>
+</p>
 
 
 
