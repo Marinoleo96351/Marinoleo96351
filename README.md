@@ -53,12 +53,12 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marinoleo96351&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marinoleo96351&layout=compact&theme=dracula&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marinoleo96351&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Marinoleo96351&theme=dracula&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
